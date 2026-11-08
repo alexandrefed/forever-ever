@@ -1,0 +1,8 @@
+{
+  "source": "Synthetic demonstration — NOT WoW game values",
+  "build": "not-applicable",
+  "spells": [
+    {"name": "Example small heal", "min_heal": 140, "max_heal": 160, "mana": 75, "cast_seconds": 2, "gcd_seconds": 1.5},
+    {"name": "Example large heal", "min_heal": 380, "max_heal": 420, "mana": 150, "cast_seconds": 3, "gcd_seconds": 1.5}
+  ]
+}

@@ -1,0 +1,9 @@
+[project]
+name = "forever-ever"
+version = "0.1.0"
+description = "Reproducible WoW Forever theorycrafting under explicit assumptions"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
